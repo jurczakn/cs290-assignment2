@@ -1,0 +1,32 @@
+table, th, td{
+
+  border: 1px solid black;
+
+}
+
+tbody th:nth-child(1){
+
+  font-weight: normal;
+  font-style: italic;
+  
+}
+
+tbody td:nth-child(2){
+
+  color: red;
+
+}
+
+tbody td:nth-child(4){
+
+  color: blue;
+
+}
+
+tbody tr:nth-child(odd){
+  background: LightGreen;
+}
+
+tbody tr:nth-child(even){
+  background: LightBlue;
+}
