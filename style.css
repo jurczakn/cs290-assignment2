@@ -54,3 +54,11 @@ dt:hover + dd{
   background: blue;
 
 }
+
+img{
+
+  width: 100px;
+  height: 125px;
+  float: left;
+
+}
